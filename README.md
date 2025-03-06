@@ -1,2 +1,3 @@
-# TecXATP
-AlgoTradingPlatform
+# AlgoTradingPlatform
+
+Futuristic algorithmic trading platform.
