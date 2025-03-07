@@ -1,6 +1,0 @@
-flask
-fastapi
-pandas
-numpy
-scipy
-tensorflow

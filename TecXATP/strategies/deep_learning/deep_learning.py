@@ -1,1 +1,0 @@
-# Deep Learning Trading Strategy

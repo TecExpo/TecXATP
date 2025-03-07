@@ -1,1 +1,0 @@
-# Quantum-based trading strategies

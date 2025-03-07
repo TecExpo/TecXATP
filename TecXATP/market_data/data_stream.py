@@ -1,1 +1,0 @@
-# Real-time market data ingestion

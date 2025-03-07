@@ -1,1 +1,0 @@
-# Swarm intelligence trading system
